@@ -9,8 +9,6 @@ First, install the required packages:
 Import Libraries
 After installing the required packages, import the following libraries:
 
-python
-Copy code
 import cv2
 from matplotlib import pyplot as plt
 import mediapipe as mp
