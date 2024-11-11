@@ -15,7 +15,7 @@ After installing the required packages, import the following libraries:
 import cv2
 from matplotlib import pyplot as plt
 import mediapipe as mp
-
+```
 ## Function Description
 
 The core function, `detect_and_display_hand_with_index_finger`, processes an input image to detect the hand and places a green dot on the index finger tip:
