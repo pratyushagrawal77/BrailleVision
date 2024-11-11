@@ -9,7 +9,6 @@ First, install the required packages:
 ## Import Libraries
 
 After installing the required packages, import the following libraries:
-
 ```python
 import cv2
 from matplotlib import pyplot as plt
