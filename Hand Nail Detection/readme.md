@@ -33,3 +33,20 @@ This function takes the following input:
 The function outputs:
 
 - An image with the hand landmarks and a green dot on the index finger tip.
+
+  ## Example Usage
+
+To run the function with your specified image, use the following code:
+
+```python
+# Path to the image file
+image_path = 'test_img.jpg'
+
+# Call the function to detect hand and display the image with index finger
+detect_and_display_hand_with_index_finger(image_path)
+## Example Usage
+
+To run the function with your specified image, use the following code:
+
+```
+
