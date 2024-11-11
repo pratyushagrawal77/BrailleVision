@@ -31,3 +31,12 @@ pip install SpeechRecognition
 Listening, please say something:
 Recognized text: Hello, how are you doing?
 ```
+## Customization
+
+- **Language Adjustment**: The language for transcription can be customized by modifying the `language` parameter in the code. You can set it to any supported language code, such as `"en-US"` for English (United States) or `"hi-IN"` for Hindi (India).
+
+## Notes
+
+- **Internet Connection**: An active internet connection is necessary to use Google’s Speech Recognition API for transcription.
+- **Applications**: This tool is ideal for applications requiring voice-to-text functionality, including virtual assistants, transcription services, and hands-free interfaces.
+
