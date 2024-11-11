@@ -6,7 +6,7 @@ First, install the required packages:
 
 ```bash
 !pip install opencv-python mediapipe matplotlib
-```bash
+```
 ## Import Libraries
 
 After installing the required packages, import the following libraries:
