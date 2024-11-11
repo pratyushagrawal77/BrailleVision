@@ -6,9 +6,9 @@ This project provides an implementation to detect and highlight the index finger
 
 Install the necessary libraries with the following command:
 
-```bash
+```bash```bash
 !pip install opencv-python mediapipe matplotlib
-
+```bash
 ## Import Libraries
 
 After installing the required packages, import the following libraries:
